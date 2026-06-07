@@ -8,20 +8,22 @@
 
 Building AI-powered software, developer tools, and scalable systems.
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,express,postgres,mongodb,docker,aws,git,linux" />
-
 </div>
+
+---
+
+## Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hharshrastogi&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=hharshrastogi&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
 ## Philosophy
 
-> Build useful products.
-> Ship fast.
-> Own outcomes.
-> Automate everything possible.
+> Build useful products. Ship fast. Own outcomes. Automate everything possible.
 
 ---
 
@@ -29,11 +31,19 @@ Building AI-powered software, developer tools, and scalable systems.
 
 * AI Engineering & RAG Systems
 * Full-Stack Product Development
+* Product Ownership
 * System Design & Architecture
 * API Design & Backend Engineering
+* Cloud Infrastructure
 * Developer Productivity Tooling
-* Cloud Infrastructure & Deployments
-* Product Ownership & Execution
+
+---
+
+## Currently Building
+
+🚀 AI SaaS Platform for Developers
+
+Focused on improving developer workflows through AI-powered automation, orchestration, and intelligent tooling.
 
 ---
 
@@ -43,51 +53,38 @@ Building AI-powered software, developer tools, and scalable systems.
 * Multi-Agent Workflows
 * AI Infrastructure
 * Advanced System Design
-* Scalable SaaS Architecture
 * Context Engineering
+* Scalable SaaS Architecture
 
 ---
 
-## About Me
-
-I enjoy taking products from idea to production.
-
-My work spans architecture design, backend systems, frontend applications, AI integrations, infrastructure, and deployment. I particularly enjoy solving complex engineering problems and building systems that create leverage through automation.
-
----
-
-## Professional Experience Highlights
+## Professional Highlights
 
 ### End-to-End Product Ownership
 
-* Served as the sole engineer across multiple production platforms, owning architecture, frontend, backend, databases, AI pipelines, cloud infrastructure, admin tooling, and deployments.
-* Built complete products from the ground up and shipped them to production environments.
+* Sole engineer responsible for architecture, frontend, backend, databases, AI systems, cloud infrastructure, admin tooling, and production deployments across multiple platforms.
+* Built and launched complete products from idea to production.
 
 ### AI Engineering
 
-* Designed and deployed production-grade Retrieval-Augmented Generation (RAG) systems using vector databases, embeddings, retrieval pipelines, and citation-grounded response generation.
-* Built AI-powered content and workflow platforms integrating modern LLM ecosystems and inference providers.
+* Designed and deployed production-grade RAG systems using vector databases, embeddings, retrieval pipelines, and citation-grounded response generation.
+* Built AI-powered platforms integrating modern LLM ecosystems and inference providers.
 
 ### Backend & Platform Engineering
 
-* Developed 35+ production APIs supporting authentication, access control, referrals, community systems, content workflows, activity logging, automation pipelines, and analytics.
-* Implemented secure authentication, OAuth, rate limiting, audit logging, API security, and cloud storage workflows.
+* Developed 35+ production APIs supporting authentication, access control, referrals, community systems, content workflows, automation pipelines, analytics, and audit logging.
+* Implemented OAuth, JWT authentication, rate limiting, API security, cloud storage systems, and infrastructure automation.
 
-### System Architecture
+### Performance & Scale
 
-* Designed scalable backend architectures using Node.js, FastAPI, PostgreSQL, MongoDB, and distributed cloud services.
-* Built internal admin systems, creator dashboards, moderation tooling, and workflow management platforms.
-
-### Performance & Growth
-
-* Reduced infrastructure costs by over $1,000/month through architectural optimizations.
-* Improved Core Web Vitals by 15%+ through frontend performance enhancements.
-* Contributed to 325% user growth through technical SEO, platform improvements, and UX redesign initiatives.
+* Reduced infrastructure costs by $1,000+ per month through architecture optimization.
+* Improved Core Web Vitals by 15%+ through frontend performance improvements.
+* Contributed to 325% user growth through technical SEO, platform enhancements, and UX improvements.
 
 ### Product Development
 
-* Built social platform features including content recommendation systems, stories infrastructure, feed personalization, and engagement workflows.
-* Developed internal enterprise tools adopted across engineering teams to streamline operational workflows and reduce manual effort.
+* Built recommendation systems, content workflows, creator tooling, moderation platforms, analytics dashboards, and internal productivity systems.
+* Developed enterprise tooling that streamlined workflows and reduced operational overhead.
 
 ---
 
@@ -97,7 +94,7 @@ My work spans architecture design, backend systems, frontend applications, AI in
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,java" />
 
 ### Frontend
 
@@ -107,21 +104,19 @@ My work spans architecture design, backend systems, frontend applications, AI in
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,mysql" />
 
+### AI & Developer Tools
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
+
 ### Infrastructure
 
 <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,vercel" />
-
-### AI & Developer Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
-</p>
 
 </div>
 
